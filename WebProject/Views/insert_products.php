@@ -94,28 +94,7 @@
                <td>Product Name</td>
                <td><input type="text" name="product_title"/></td>
             </tr>
-            <!-- <tr>
-               <td>Product Status</td>
-               <td><input type="text" name="product_status"/></td>
-            </tr> -->
-            <!-- <tr>
-               <td>Product Category</td>
-               <td>
-               <select name="product_cat">
-                <option>Select a Category</option>
-                <?php
-                    //  $get_cats = "SELECT * FROM `categories`";
-                    //  $run_cat = mysqli_query($con, $get_cats);
-                    //  while ($row_cats=mysqli_fetch_array($run_cat))
-                    //  {
-                    //      $cat_id = $row_cats['cat_id'];
-                    //      $cat_title = $row_cats['cat_title'];
-                    //     echo "<option>$cat_title</option>";
-                    // }
-                ?>
-               </select>
-               </td>
-            </tr> -->
+        
             <tr>
                <td>Product Price</td>
                <td><input type="text" name="product_price"/></td>

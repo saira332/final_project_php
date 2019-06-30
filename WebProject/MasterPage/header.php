@@ -79,7 +79,6 @@
                                         <li><a href="/WebProject/Views/Login.php">Login </a></li>
                                         <li><a href="/WebProject/Views/Signup.php">Signup</a></li>
                                         <li><a href="/WebProject/Views/Products.php">Products</a></li>
-                                        <li><a href="/WebProject/Views/insert_products.php">Insert New Product</a></li>
                                     </ul>
                                 </li>
                             </ul>

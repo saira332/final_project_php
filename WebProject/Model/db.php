@@ -6,7 +6,7 @@ class DB{
     var $servername = "localhost";  
     var $username = "root";         
     var $password = "";             
-    var $dbname = "school";     
+    var $dbname = "projrct";     
     
     
     var $conn;

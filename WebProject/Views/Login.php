@@ -119,10 +119,12 @@
                     //echo $row['id']."&nbsp".$row['name']."&nbsp". $row['mail']."&nbsp".$row['pas']."&nbsp".$row['pn']."<br />";
                     if($row['email']==$mail && $row['password']==$pass)
                     {
-                        echo "Data Match!";
+                        echo "<script>window.open('dashboard.php','_self')</script>";
                     }
                 }
-                echo "data not match";
+             
+                echo "<script>alert('insert valid data!')</script>";
+                
                 echo "<br />";
             }
         }   
